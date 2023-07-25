@@ -56,7 +56,7 @@ const Home = () => {
             </p>
           </div>
           <div className="item">
-            <video src="./img/video.mp4" controls />
+            <video src="./img/videoo.mp4" controls />
           </div>
         </div>
       </div>
