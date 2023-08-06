@@ -73,11 +73,14 @@ To run this project, you will need to add the following environment variables to
 
 `JWT_KEY`
 
-![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/eadb6de2-e6b1-4300-96ba-7b7eb6b013e7)
+![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/fef01393-4e8e-4df7-9b35-6e2f1aa70984)
 
-![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/ccac3a2b-f63e-4c4a-90ed-90eee45d8c23)
 
-![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/8f7042d9-791d-4521-bea1-931120c1c581)
+![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/b5f9816f-f969-4fda-a473-50a807285e19)
+
+
+![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/5022d3b9-fc99-48e6-bc06-2fad14298716)
+
 
 
 
