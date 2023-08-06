@@ -56,7 +56,7 @@ Install dependencies in both directories
 Start the client server
 
 ```bash
-  npm run host
+  npm run dev
 ```
 
 Start the api server
