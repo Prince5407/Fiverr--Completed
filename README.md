@@ -1,4 +1,4 @@
-# Fiverr--Completed##LANGUAGES USED
+# LANGUAGES USED
 
 ![1](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![2](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=scss&logoColor=white)
@@ -72,6 +72,13 @@ To run this project, you will need to add the following environment variables to
 `MONGO_URL`
 
 `JWT_KEY`
+
+![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/eadb6de2-e6b1-4300-96ba-7b7eb6b013e7)
+
+![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/ccac3a2b-f63e-4c4a-90ed-90eee45d8c23)
+
+![image](https://github.com/Prince5407/Fiverr--Completed/assets/103447465/8f7042d9-791d-4521-bea1-931120c1c581)
+
 
 
 
